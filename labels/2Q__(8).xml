@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>smoking___Google_Search</folder>
+	<filename>2Q__ (8).jpg</filename>
+	<path>D:\Downloads_D\smoking___Google_Search\2Q__ (8).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>276</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>276</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>
